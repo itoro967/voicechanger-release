@@ -1,0 +1,38 @@
+{
+  "payload": {
+    "app": "VoiceChanger",
+    "version": "2.6.0",
+    "date": "2026-11-04",
+    "commit": "0338ff3",
+    "notes": "・配っている声のモデルに新しいもの（または取ってあるモデルの新しい版）が置かれたら、アプリを開いたときに知らせるようにしました。「取ってくる…」で一覧を開くと消えます",
+    "runtime": {
+      "torch": "2.7.1+cu128",
+      "requirements": "e692e8fffb7d",
+      "rvc": "81eed5e8f68b"
+    },
+    "items": [
+      "tools",
+      "RVC/configs",
+      "RVC/i18n",
+      "RVC/infer",
+      "RVC/tools",
+      "debug.bat",
+      "README.txt",
+      "BUILD-INFO.json",
+      "models/README.txt",
+      "LICENSES/RVC-LICENSE.txt",
+      "LICENSES/RVC-references.txt",
+      "LICENSES/RFC8032-LICENSE.txt",
+      "LICENSES/certifi-LICENSE.txt",
+      "LICENSES/DeepFilterNet-LICENSE.txt",
+      "LICENSES/sv-ttk-LICENSE.txt"
+    ],
+    "url": "https://itoro.f5.si/voicechanger/VoiceChanger-update-2.6.0.zip",
+    "mirrors": [
+      "https://raw.githubusercontent.com/itoro967/voicechanger-release/updates/VoiceChanger-update-2.6.0.zip"
+    ],
+    "size": 8748073,
+    "sha256": "755f9ab1d156a1397c9a98c39b326b0ee161545e01107120763592bc1a9c896b"
+  },
+  "signature": "025df0a3199f60b273726736c3756f4c7aad0f8e3b35e33dfd31673505a2fac75ba9dcd9f7b0c7f9d8d4db2bd8f64079c80f3dae26b5ce2a52b20d616f74e90e"
+}
